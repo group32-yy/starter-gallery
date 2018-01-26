@@ -10,3 +10,5 @@
 .idea/modules.xml
 .idea/starter-gallery.iml
 .idea/vcs.xml
+config/database.php
+application/config/database.php
