@@ -6,3 +6,7 @@
 !*/cache/.htaccess
 /nbproject/private/
 /nbproject/
+.idea/workspace.xml
+.idea/modules.xml
+.idea/starter-gallery.iml
+.idea/vcs.xml
